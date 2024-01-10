@@ -1,4 +1,4 @@
-pouo_demo/** filter=git-crypt diff=git-crypt
+src/** filter=git-crypt diff=git-crypt
 
 .gitattributes !filter !diff
 README.md !filter !diff
