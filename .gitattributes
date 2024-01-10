@@ -1,1 +1,4 @@
-*.java filter=git-crypt diff=git-crypt
+pouo_demo/** filter=git-crypt diff=git-crypt
+
+.gitattributes !filter !diff
+README.md !filter !diff
